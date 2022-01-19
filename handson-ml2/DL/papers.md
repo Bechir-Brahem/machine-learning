@@ -1,0 +1,19 @@
+chapter 11
+http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+https://arxiv.org/abs/1505.00853
+https://arxiv.org/abs/1511.07289
+https://arxiv.org/abs/1706.02515
+https://arxiv.org/abs/1502.03167
+https://arxiv.org/abs/1901.09321
+https://arxiv.org/abs/1211.5063
+https://www.researchgate.net/publication/243648538_Some_methods_of_speeding_up_the_convergence_of_iteration_methods
+https://jmlr.org/papers/v12/duchi11a
+https://www.youtube.com/watch?v=defQQqkXEfE&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&index=30
+https://arxiv.org/pdf/1412.6980.pdf
+http://cs229.stanford.edu/proj2015/054_report.pdf
+https://arxiv.org/abs/1705.08292
+https://arxiv.org/abs/1803.09820
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40808.pdf
+https://arxiv.org/abs/1207.0580
+https://jmlr.org/papers/v15/srivastava14a.html
+https://arxiv.org/abs/1506.02142
